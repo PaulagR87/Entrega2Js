@@ -1,7 +1,7 @@
-var  NombreUsuario = prompt('introduce tu nombre: ');
+let NombreUsuario = prompt('introduce tu nombre: ');
     alert('Bienvenido ' + NombreUsuario );
 
-var aceptar = prompt('cuantos gatitos quieres adoptar?');
+let aceptar = prompt('cuantos gatitos quieres adoptar?');
 alert('Gracias por adoptar ' + aceptar );
 
  var edad;
