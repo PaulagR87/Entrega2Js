@@ -2,6 +2,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Patrick+Hand&display=swap");
 
 
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300; }
+
+#particles-js {
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: -1; }
+
+
 /** imagen de contacto **/
 #form-container .img-form {
   background-color: #dcecf9;
@@ -146,17 +161,4 @@
     height: 110%; } }
 
 
-
-body {
-  background-color: #000;
-  color: #fff;
-  font-size: 18px;
-  font-family: 'Lato', sans-serif;
-  font-weight: 300; }
-
-#particles-js {
-  height: 100vh;
-  width: 100%;
-  position: fixed;
-  z-index: -1; }
 
